@@ -68,7 +68,7 @@ body:before {
 
 #app-mount:before {
 	content: 'GAME OVER';
-	font-family: 'Press Start 2P';
+	font-family: 'Montserrat';
 	position: absolute;
 	width: 100%;
 	height: 100vh;
